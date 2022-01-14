@@ -24,7 +24,7 @@ Open the `index.html` file in your browser and check the console in Chrome Dev T
 
 Figure out what you need to change to give Javascript access to the `h1#header` element.
 
-NOTE: this is an JS code is good. This is an order of operations issue.
+NOTE: The JS code is good. This is an order of operations issue.
 
 **YOUR NOTES**
 ```
